@@ -1,0 +1,13 @@
+.cards{
+width: 250px;
+padding: 20px;
+}
+.image_box img{
+    width: 250px;
+    height: 200px;
+}
+.details button{
+    padding: 5px 10px;
+    border: none;
+    background-color: skyblue;
+}
